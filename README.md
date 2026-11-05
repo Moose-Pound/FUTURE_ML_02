@@ -8,6 +8,12 @@ The project includes an interactive Streamlit web application that allows users 
 
 It demonstrates how machine learning can assist support teams in organising incoming tickets and improving ticket management.
 
+## Live Demo
+
+Access the deployed application here:
+
+[**Support Ticket Classification – Live App**](https://moose-support-ticket-classification.streamlit.app/)
+
 ## Objectives
 
 - Clean and preprocess support ticket text.
@@ -141,7 +147,7 @@ The application uses the saved TF-IDF vectorizer and Random Forest model to gene
 
 ![Support Ticket Analysis](support-ticket-dashboard3.png)
 
-### Running the Application
+### Running the Application Locally
 
 After installing the dependencies, navigate to the project directory containing `app.py` and run:
 
